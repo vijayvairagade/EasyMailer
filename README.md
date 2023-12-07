@@ -26,8 +26,6 @@ This is version 1 of this tool, stay connected for future updates.
 
 - **Secure SMTP Integration:** EasyMailer supports secure SMTP integration, ensuring the confidentiality and integrity of your email communication. Input your SMTP server details with confidence, knowing that your information is transmitted securely.
 
-- **Menu Options:** EasyMailer offers additional menu options, including an 'About' section to learn more about the software, a 'Contact' feature for support inquiries, and an 'Exit' option to close the application seamlessly.
-
 ### Video Demo
 
 [![Video Demo](https://img.youtube.com/vi/qt32_9uVX00/0.jpg)](https://www.youtube.com/watch?v=qt32_9uVX00)
